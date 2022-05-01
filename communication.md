@@ -1,0 +1,13 @@
+### Communication
+- RocketChat is free, unlimited and open source. Replace email & Slack with the ultimate team chat software solution. https://rocket.chat
+- Etherpad is an open source, web-based collaborative real-time editor, allowing authors to simultaneously edit a text document https://etherpad.net
+- Signal is a cross-platform centralized encrypted instant messaging service developed by the non-profit Signal Foundation https://signal.org/en/
+- Wickr
+- Imo
+- Anonymous Chat
+- Discord
+- SchildiChat
+- Wire
+- Telegram
+- Nextcloud
+- 
