@@ -1,0 +1,56 @@
+## Weaponisation
+
+- Composite Moniker Proof of Concept exploit for CVE-2017-8570. https://github.com/rxwx/CVE-2017-8570
+- Exploit toolkit CVE-2017-8759 is a handy python script which provides pentesters and security researchers a quick and effective way to test Microsoft .NET Framework RCE. https://github.com/bhdresh/CVE-2017-8759
+- CVE-2017-11882 Exploit accepts over 17k bytes long command/code in maximum. https://github.com/unamer/CVE-2017-11882
+- Adobe Flash Exploit CVE-2018-4878. https://github.com/anbai-inc/CVE-2018-4878
+- Exploit toolkit CVE-2017-0199 is a handy python script which provides pentesters and security researchers a quick and effective way to test Microsoft Office RCE. https://github.com/bhdresh/CVE-2017-0199
+- demiguise is a HTA encryption tool for RedTeams. https://github.com/nccgroup/demiguise
+- Office-DDE-Payloads collection of scripts and templates to generate Office documents embedded with the DDE, macro-less command execution technique. https://github.com/0xdeadbeefJERKY/Office-DDE-Payloads
+- CACTUSTORCH Payload Generation for Adversary Simulations. https://github.com/mdsecactivebreach/CACTUSTORCH
+- SharpShooter is a payload creation framework for the retrieval and execution of arbitrary CSharp source code. https://github.com/mdsecactivebreach/SharpShooter
+- Don’t kill my cat is a tool that generates obfuscated shellcode that is stored inside of polyglot images. The image is 100% valid and also 100% valid shellcode. https://github.com/Mr-Un1k0d3r/DKMC
+- Malicious Macro Generator Utility Simple utility design to generate obfuscated macro that also include a AV / Sandboxes escape mechanism. https://github.com/Mr-Un1k0d3r/MaliciousMacroGenerator
+- SCT Obfuscator Cobalt Strike SCT payload obfuscator. https://github.com/Mr-Un1k0d3r/SCT-obfuscator
+- Invoke-Obfuscation PowerShell Obfuscator. https://github.com/danielbohannon/Invoke-Obfuscation
+- Invoke-CradleCrafter PowerShell remote download cradle generator and obfuscator. https://github.com/danielbohannon/Invoke-CradleCrafter
+- Invoke-DOSfuscation cmd.exe Command Obfuscation Generator & Detection Test Harness. https://github.com/danielbohannon/Invoke-DOSfuscation
+- morphHTA Morphing Cobalt Strike’s evil.HTA. https://github.com/vysec/morphHTA
+- Unicorn is a simple tool for using a PowerShell downgrade attack and inject shellcode straight into memory. https://github.com/trustedsec/unicorn
+- Shellter is a dynamic shellcode injection tool, and the first truly dynamic PE infector ever created. https://www.shellterproject.com/
+- EmbedInHTML Embed and hide any file in an HTML file. https://github.com/Arno0x/EmbedInHTML
+- SigThief Stealing Signatures and Making One Invalid Signature at a Time. https://github.com/secretsquirrel/SigThief
+- Veil is a tool designed to generate metasploit payloads that bypass common anti-virus solutions. https://github.com/Veil-Framework/Veil
+- CheckPlease Sandbox evasion modules written in PowerShell, Python, Go, Ruby, C, C#, Perl, and Rust. https://github.com/Arvanaghi/CheckPlease
+- Invoke-PSImage is a tool to embeded a PowerShell script in the pixels of a PNG file and generates a oneliner to execute. https://github.com/peewpw/Invoke-PSImage
+- LuckyStrike a PowerShell based utility for the creation of malicious Office macro documents. To be used for pentesting or educational purposes only. https://github.com/curi0usJack/luckystrike
+- ClickOnceGenerator Quick Malicious ClickOnceGenerator for Red Team. The default application a simple WebBrowser widget that point to a website of your choice. https://github.com/Mr-Un1k0d3r/ClickOnceGenerator
+- macro_pack is a tool by @EmericNasi used to automatize obfuscation and generation of MS Office documents, VB scripts, and other formats for pentest, demo, and social engineering assessments. https://github.com/sevagas/macro_pack
+- StarFighters a JavaScript and VBScript Based Empire Launcher. https://github.com/Cn33liz/StarFighters
+- nps_payload this script will generate payloads for basic intrusion detection avoidance. It utilizes publicly demonstrated techniques from several different sources. https://github.com/trustedsec/nps_payload
+- SocialEngineeringPayloads a collection of social engineering tricks and payloads being used for credential theft and spear phishing attacks. https://github.com/bhdresh/SocialEngineeringPayloads
+- The Social-Engineer Toolkit is an open-source penetration testing framework designed for social engineering. https://github.com/trustedsec/social-engineer-toolkit
+- Phishery is a Simple SSL Enabled HTTP server with the primary purpose of phishing credentials via Basic Authentication.https://github.com/ryhanson/phishery
+- PowerShdll run PowerShell with rundll32. Bypass software restrictions. https://github.com/p3nt4/PowerShdll
+- Ultimate AppLocker ByPass List The goal of this repository is to document the most common techniques to bypass AppLocker. https://github.com/api0cradle/UltimateAppLockerByPassList
+- Ruler is a tool that allows you to interact with Exchange servers remotely, through either the MAPI/HTTP or RPC/HTTP protocol. https://github.com/sensepost/ruler
+- Generate-Macro is a standalone PowerShell script that will generate a malicious Microsoft Office document with a specified payload and persistence method. https://github.com/enigma0x3/Generate-Macro
+- Malicious Macro MSBuild Generator Generates Malicious Macro and Execute Powershell or Shellcode via MSBuild Application Whitelisting Bypass. https://github.com/infosecn1nja/MaliciousMacroMSBuild
+- Meta Twin is designed as a file resource cloner. Metadata, including digital signature, is extracted from one file and injected into another. https://github.com/threatexpress/metatwin
+- WePWNise generates architecture independent VBA code to be used in Office documents or templates and automates bypassing application control and exploit mitigation software. https://github.com/mwrlabs/wePWNise
+- DotNetToJScript a tool to create a JScript file which loads a .NET v2 assembly from memory. https://github.com/tyranid/DotNetToJScript
+- PSAmsi is a tool for auditing and defeating AMSI signatures. https://github.com/cobbr/PSAmsi
+- Reflective DLL injection is a library injection technique in which the concept of reflective programming is employed to perform the loading of a library from memory into a host process. https://github.com/stephenfewer/ReflectiveDLLInjection
+- ps1encode use to generate and encode a powershell based metasploit payloads. https://github.com/CroweCybersecurity/ps1encode
+- Worse PDF turn a normal PDF file into malicious. Use to steal Net-NTLM Hashes from windows machines. https://github.com/3gstudent/Worse-PDF
+- SpookFlare has a different perspective to bypass security measures and it gives you the opportunity to bypass the endpoint countermeasures at the client-side detection and network-side detection. https://github.com/hlldz/SpookFlare
+- GreatSCT is an open source project to generate application white list bypasses. This tool is intended for BOTH red and blue team. https://github.com/GreatSCT/GreatSCT
+- nps running powershell without powershell. https://github.com/Ben0xA/nps
+- Meterpreter_Paranoid_Mode.sh allows users to secure your staged/stageless connection for Meterpreter by having it check the certificate of the handler it is connecting to. https://github.com/r00t-3xp10it/Meterpreter_Paranoid_Mode-SSL
+- The Backdoor Factory (BDF) is to patch executable binaries with user desired shellcode and continue normal execution of the prepatched state. https://github.com/secretsquirrel/the-backdoor-factory
+- MacroShop a collection of scripts to aid in delivering payloads via Office Macros. https://github.com/khr0x40sh/MacroShop
+- UnmanagedPowerShell Executes PowerShell from an unmanaged process. https://github.com/leechristensen/UnmanagedPowerShell
+- evil-ssdp Spoof SSDP replies to phish for NTLM hashes on a network. Creates a fake UPNP device, tricking users into visiting a malicious phishing page. https://gitlab.com/initstring/evil-ssdp
+- Ebowla Framework for Making Environmental Keyed Payloads. https://github.com/Genetic-Malware/Ebowla
+- make-pdf-embedded a tool to create a PDF document with an embedded file. https://github.com/DidierStevens/DidierStevensSuite/blob/master/make-pdf-embedded.py
+- avet (AntiVirusEvasionTool) is targeting windows machines with executable files using different evasion techniques. https://github.com/govolution/avet
