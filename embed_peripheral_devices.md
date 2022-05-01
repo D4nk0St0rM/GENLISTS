@@ -7,3 +7,6 @@
 - Fenrir is a tool designed to be used “out-of-the-box” for penetration tests and offensive engagements. Its main feature and purpose is to bypass wired 802.1x protection and to give you an access to the target network. https://github.com/Orange-Cyberdefense/fenrir-ocd
 - poisontap exploits locked/password protected computers over USB, drops persistent WebSocket-based backdoor, exposes internal router, and siphons cookies using Raspberry Pi Zero & Node.js. https://github.com/samyk/poisontap
 - WHID WiFi HID Injector – An USB Rubberducky / BadUSB On Steroids. https://github.com/whid-injector/WHID
+- https://github.com/hak5darren/USB-Rubber-Ducky
+- https://blog.hartleybrody.com/rubber-ducky-guide/
+- https://github.com/Screetsec/Pateensy
