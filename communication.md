@@ -2,12 +2,11 @@
 - RocketChat is free, unlimited and open source. Replace email & Slack with the ultimate team chat software solution. https://rocket.chat
 - Etherpad is an open source, web-based collaborative real-time editor, allowing authors to simultaneously edit a text document https://etherpad.net
 - Signal is a cross-platform centralized encrypted instant messaging service developed by the non-profit Signal Foundation https://signal.org/en/
-- Wickr
-- Imo
-- Anonymous Chat
-- Discord
-- SchildiChat
-- Wire
-- Telegram
-- Nextcloud
-- 
+- Wickr instant messaging apps allow users to exchange end-to-end encrypted and content-expiring messages, including photos, videos, and file attachments https://wickr.com/
+- imo is a free audio/video calling and instant messaging software service. It supports encrypted group video and voice calls with up to 20 participants https://imo.im/
+- Anonymous Tor Messenger is a peer to peer, private, anonymous and secure messenger that works over tor https://m.apkpure.com/nl/anonymous-messenger/com.dx.anonymousmessenger
+- Discord is a VoIP, instant messaging and digital distribution platform https://discord.com/
+- SchildiChat https://schildi.chat/
+- Wire https://wire.com/en/
+- Telegram https://telegram.org/
+- Nextcloud is a suite of client-server software for creating and using file hosting services https://nextcloud.com/
