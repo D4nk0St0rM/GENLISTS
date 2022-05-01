@@ -1,6 +1,11 @@
 # BugBounty Tips	
 source: https://github.com/punishell/bbtips
 
+### Other sources: 
+
+- https://github.com/KathanP19/HowToHunt
+- https://github.com/daffainfo/AllAboutBugBounty
+
 # Recon
 ```
 Google the company copyright footer to get more domains.
