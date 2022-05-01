@@ -1,0 +1,7 @@
+- https://apify.com/bernardo/youtube-scraper#tutorial
+- https://apify.com/jaroslavhejlek/instagram-scraper
+- https://apify.com/apify/google-search-scraper
+- https://github.com/vdrmota/actor-twitter-scraper
+- https://github.com/drobnikj/crawler-google-places
+- https://apify.com/sauermar/tiktok-scraper
+- 
