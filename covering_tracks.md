@@ -14,4 +14,6 @@
 - [TorPlusVPN](https://gitlab.torproject.org/legacy/trac/-/wikis/doc/torplusvpn)
 - [anonym8 - Transparent proxy tunnel](https://github.com/D4nk0St0rM/anonym8)
 - [protonvpn](https://protonvpn.com/)
+- [check header leak](https://webhook.site/)
+- [dns leack check](https://www.dnsleaktest.com/)
 - 
