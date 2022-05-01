@@ -8,5 +8,7 @@
 - PwnAuth a web application framework for launching and managing OAuth abuse campaigns. https://github.com/fireeye/PwnAuth
 - Phishing Frenzy Ruby on Rails Phishing Framework. https://github.com/pentestgeek/phishing-frenzy
 - Phishing Pretexts a library of pretexts to use on offensive phishing engagements. https://github.com/L4bF0x/PhishingPretexts
-- Modlishka is a flexible and powerful reverse proxy, that will take your ethical phishing campaigns to the next level. https://github.com/drk1wi/ModlishkaWatering Hole Attack
+- Modlishka is a flexible and powerful reverse proxy, that will take your ethical phishing campaigns to the next level. https://github.com/drk1wi/Modlishka
+
+### Watering Hole Attack
 - BeEF is short for The Browser Exploitation Framework. It is a penetration testing tool that focuses on the web browser. https://github.com/beefproject/beef
