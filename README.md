@@ -8,6 +8,8 @@
 ## Contents
 
 ### General
+
+- [My ethical hacking repo](https://github.com/D4nk0St0rM/pentesting_ethical_hacking)
 - [frameworks](frameworks.md)
 - [communications](communication.md)
 - [various scripts](scripts.md)
