@@ -6,7 +6,7 @@
 - imo is a free audio/video calling and instant messaging software service. It supports encrypted group video and voice calls with up to 20 participants https://imo.im/
 - Anonymous Tor Messenger is a peer to peer, private, anonymous and secure messenger that works over tor https://m.apkpure.com/nl/anonymous-messenger/com.dx.anonymousmessenger
 - Discord is a VoIP, instant messaging and digital distribution platform https://discord.com/
-- SchildiChat https://schildi.chat/
-- Wire https://wire.com/en/
-- Telegram https://telegram.org/
+- SchildiChat is a Matrix client based on Element with a more traditional instant messaging experience https://schildi.chat/
+- Wire Secure messaging, conferencing, file-sharing and more through end-to-end encryption for cloud, private cloud and On-Premises https://wire.com/en/
+- Telegram is like SMS and email combined — and can take care of all your personal or business messaging needs. In addition to this, we support end-to-end encrypted voice and video calls, as well as voice chats in groups for thousands of participants.https://telegram.org/
 - Nextcloud is a suite of client-server software for creating and using file hosting services https://nextcloud.com/
