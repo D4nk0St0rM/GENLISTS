@@ -40,6 +40,7 @@
 ### Networks
 
 - [wireless networks](wireless.md)
+- [sniffing](networks.md)
 
 ### Movement
 
