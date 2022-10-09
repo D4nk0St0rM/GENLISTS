@@ -1,4 +1,14 @@
-# proxy-list
+# proxy list
+
+- https://github.com/clarketm/proxy-list
+- https://github.com/TheSpeedX/PROXY-List
+- https://github.com/ShiftyTR/Proxy-List
+- https://github.com/jetkai/proxy-list
+
+Socks5 for Telegram:
+- https://github.com/hookzof/socks5_list 
+
+
 ```
 curl -sSf "https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt" > proxy-list.txt
 
