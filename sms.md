@@ -32,8 +32,6 @@ SMS.SELLAITE: http://sms.sellaite.com
 
 Send SMS now: http://www.sendsmsnow.com
 
-Receive SMS online.EU: http://receivesmsonline.eu
-
 Proovl: https://www.proovl.com/numbers
 
 Anon SMS: https://anon-sms.com
